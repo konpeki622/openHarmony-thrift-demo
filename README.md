@@ -1,0 +1,1 @@
+# openHarmony-thrift-demo
