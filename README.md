@@ -17,6 +17,8 @@ The OpenHarmonyOS simulator can not access local host like `localhost` or `127.0
 ```shell
 > cd client/entry
 > npm i
+# after running 'npm link' in 'thrift' folder
+> npm link thrift
 ```
 
 Then open the `client` folder with [DevEco Studio](https://developer.harmonyos.com/en/develop/deveco-studio/), change the host value defined in `index.js` and `config.json` to your new address. 
