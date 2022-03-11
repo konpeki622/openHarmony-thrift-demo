@@ -39,7 +39,7 @@ const host = 'http://60d3-139-159-170-4.ngrok.io'; //your host address
         "domains": [
           {
             "subdomains": true,
-            "name": "your host address"
+            "name": "60d3-139-159-170-4.ngrok.io" //your host address
           }
         ]
       }
